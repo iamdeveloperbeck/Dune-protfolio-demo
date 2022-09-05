@@ -1,5 +1,5 @@
 # Dune-protfolio-demo
-Dune porfolio create html css little javascript
+Dune porfolio create html css(Sass) little javascript
 simple web portfolio
 
 
