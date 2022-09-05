@@ -1,4 +1,6 @@
 # Dune-protfolio-demo
 Dune porfolio create html css little javascript
+simple web portfolio
 
-![image](https://user-images.githubusercontent.com/85181067/188454716-c387a818-53af-45ad-8d73-8f573ef26186.png)
+
+![Снимок экрана (293)](https://user-images.githubusercontent.com/85181067/188454917-ef46971c-06b0-448d-8e17-50922d83b9b6.png)
